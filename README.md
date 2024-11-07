@@ -13,7 +13,7 @@ I'm an passionate developer and engineer, mainly proficient in Python, Javascrip
 + **[Distribuited Optimization Algorithms (2023)](https://github.com/santiagokdena/distribuited-opt)** <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="drawing" width="20" height="20">
 + **[Design of my webpage (2023)](https://github.com/santiagokdena/myportfolio.github.io)** <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="drawing" width="20" height="20"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="drawing" width="20" height="20">
 
-+ **[Platzi Projecs (2024)](https://github.com/santiagokdena/Platzi-Projects)** <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="drawing" width="20" height="20">
++ **[Platzi Projects (2024)](https://github.com/santiagokdena/Platzi-Projects)** <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="drawing" width="20" height="20">
 
 + **[Machine Learning Challenges (2024)](https://github.com/santiagokdena/ML)** <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="drawing" width="20" height="20">
 
