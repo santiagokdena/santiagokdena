@@ -19,7 +19,7 @@ I'm an passionate developer and engineer, mainly proficient in Python, Javascrip
 
 + **[Teleco Networks (2024)](https://github.com/santiagokdena/Telecommunication-Networks)** <img src="https://w7.pngwing.com/pngs/79/202/png-transparent-computer-icons-computer-terminal-cmd-exe-command-terminal-miscellaneous-angle-rectangle.png" alt="drawing" width="25" height="25">
 
-+ **[Photovoltaic projects (2024)] (soon jeje)**
++ **[Photovoltaic projects (2024)] (sooner)**
 
 ## Languages
 
