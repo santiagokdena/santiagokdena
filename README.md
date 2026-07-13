@@ -2,6 +2,10 @@
 
 I'm an passionate developer and engineer, mainly proficient in Python, Javascript, C++ and Matlab. With job experiences in SQL-DB Management and Optimization in conjunction with Machine Learning as member of an university group.
 
+## University Assignments and Academic Projects
+
++ **[]**
+
 ## Projects
 
 +  **[Dictionary project (2021)](https://github.com/santiagokdena/Dictionary-Project)** <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="drawing" width="20" height="20"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="drawing" width="30" height="20">
