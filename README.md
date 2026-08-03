@@ -4,7 +4,8 @@ I'm an passionate developer and engineer, mainly proficient in Python, Javascrip
 
 ## University Assignments and Academic Projects
 
-+ **[]**
++ **[Courses]** https://github.com/santiagokdena/projects_uni.git
+
 
 ## Projects
 
