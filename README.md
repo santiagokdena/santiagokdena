@@ -1,6 +1,3 @@
-# Hi there!, here my info and some of my most important projects 
-
-I'm an passionate developer and engineer, mainly proficient in Python, Javascript, C++ and Matlab. With job experiences in SQL-DB Management and Optimization in conjunction with Machine Learning as member of an university group.
 
 ## University Assignments and Academic Projects
 
