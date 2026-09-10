@@ -10,7 +10,7 @@ I'm an Electrical Engineer, and I'm interested in Hardware/Software related to t
 - Micro-controllers
 - Edge Computing
 
-Currently I'm studying and exploring different tools like these ones. I'm also interested in Cybersecurity and Network Engineering. That's why I'm trying to create spaces in my GitHub to build more projects and contribute to the open source world.
+Currently I'm studying and exploring tools associated, so you could see some in my repos. I'm also interested in Cybersecurity and Network Engineering. That's why I'm trying to create spaces in my GitHub to build more projects and contribute to the open source world.
 
 ## Projects
 
@@ -32,4 +32,4 @@ Currently I'm studying and exploring different tools like these ones. I'm also i
 
 ## Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagokdena&layout=compact&theme=dark&hide_border=true&langs_count=8)
+[![My Skills](https://skillicons.dev/icons?i=python,js,c,cpp,matlab,bash,mysql,linux)](https://skillicons.dev)
