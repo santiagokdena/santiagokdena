@@ -18,20 +18,20 @@ Currently I'm studying and exploring tools associated, so you could see some in 
 
 
 
-<img width="404" height="390" alt="Selection_309" src="https://github.com/user-attachments/assets/e9818112-a5f9-46a7-90a9-ad5024715636" />
+<img width="200" height="200" alt="Selection_309" src="https://github.com/user-attachments/assets/e9818112-a5f9-46a7-90a9-ad5024715636" />
 
 
 
-<img width="541" height="285" alt="Selection_310" src="https://github.com/user-attachments/assets/4da807a3-bc83-40be-b5c0-cc99665a9f4c" />
+<img width="200" height="200" alt="Selection_310" src="https://github.com/user-attachments/assets/4da807a3-bc83-40be-b5c0-cc99665a9f4c" />
 
 
-<img width="245" height="186" alt="Selection_314" src="https://github.com/user-attachments/assets/5b2d9c0f-bdee-4b80-8a8c-5049f323b664" />
+<img width="200" height="200" alt="Selection_314" src="https://github.com/user-attachments/assets/5b2d9c0f-bdee-4b80-8a8c-5049f323b664" />
 
 
-<img width="205" height="262" alt="Selection_313" src="https://github.com/user-attachments/assets/cd135b3e-06d0-4ab3-a9c0-52ff9f95b2ed" />
+<img width="200" height="200" alt="Selection_313" src="https://github.com/user-attachments/assets/cd135b3e-06d0-4ab3-a9c0-52ff9f95b2ed" />
 
 
-<img width="1156" height="868" alt="WhatsApp Image 2024-08-27 at 18 04 45_6c976363" src="https://github.com/user-attachments/assets/9d9a2f1e-3015-431b-80be-cd6a62c93475" />
+<img width="200" height="200" alt="WhatsApp Image 2024-08-27 at 18 04 45_6c976363" src="https://github.com/user-attachments/assets/9d9a2f1e-3015-431b-80be-cd6a62c93475" />
 
 
 ## Projects
