@@ -37,7 +37,9 @@ Currently I'm studying and exploring tools associated, so you could see some in 
 <img width="200" height="200" alt="Selection_312" src="https://github.com/user-attachments/assets/60dfd514-088f-45ed-aea3-46570f0779fd" />
 
 
-<img width="200" height="100" alt="Selection_311" src="https://github.com/user-attachments/assets/9c3eb253-ae44-48a4-b606-7201fbaedad4" />
+<img width="200" height="200" alt="Selection_311" src="https://github.com/user-attachments/assets/9c3eb253-ae44-48a4-b606-7201fbaedad4" />
+
+<img width="200" height="200" alt="Selection_315" src="https://github.com/user-attachments/assets/0098fd44-e6dd-41d5-9474-23bfbb6f8007" />
 
 
 
