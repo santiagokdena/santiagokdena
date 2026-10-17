@@ -21,7 +21,7 @@ Currently I'm studying and exploring tools associated, so you could see some in 
 <img width="200" height="200" alt="Selection_309" src="https://github.com/user-attachments/assets/e9818112-a5f9-46a7-90a9-ad5024715636" />
 
 
-<img width="751" height="421" alt="Selection_033" src="https://github.com/user-attachments/assets/96d30c75-4a3d-4936-922d-949413f92bbd" />
+<img width="200" height="200" alt="Selection_033" src="https://github.com/user-attachments/assets/96d30c75-4a3d-4936-922d-949413f92bbd" />
 
 
 <img width="200" height="200" alt="Selection_314" src="https://github.com/user-attachments/assets/5b2d9c0f-bdee-4b80-8a8c-5049f323b664" />
