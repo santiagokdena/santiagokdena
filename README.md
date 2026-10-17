@@ -32,7 +32,6 @@ Currently I'm studying and exploring tools associated, so you could see some in 
 
 <img width="200" height="200" alt="WhatsApp Image 2024-08-27 at 18 04 45_6c976363" src="https://github.com/user-attachments/assets/9d9a2f1e-3015-431b-80be-cd6a62c93475" />
 
-![Uploading Selection_033.png…]()
 
 <img width="200" height="200" alt="Selection_312" src="https://github.com/user-attachments/assets/60dfd514-088f-45ed-aea3-46570f0779fd" />
 
